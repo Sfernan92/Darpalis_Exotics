@@ -61,7 +61,7 @@ El proyecto se desarrolla desde cero con el propósito de convertirse en una her
 - **React Router**: navegación entre páginas.
 - **CSS, Tailwind CSS o CSS Modules**: estilos responsive y mantenibles.
 
-### Backend recomendado
+### Backend 
 
 - **Python + FastAPI**: API REST rápida, moderna y fácil de documentar. FastAPI genera documentación interactiva automáticamente, lo que resulta especialmente útil mientras aprendes.
 - **SQLAlchemy**: conexión y modelado de datos en PostgreSQL.
