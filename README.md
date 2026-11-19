@@ -4,9 +4,9 @@
 
 ## 🌿 Sobre el proyecto
 
-**Darpalis Exotics** será una plataforma web diseñada para descubrir y consultar animales exóticos, terrarios, hábitats, alimentación, iluminación, climatización y accesorios. El objetivo es ofrecer una experiencia clara, visual y educativa para personas interesadas en reptiles, anfibios, invertebrados y otras especies.
+**Darpalis Exotics** será una plataforma web creada para la tienda Darpalis, especializada en animales exóticos y productos para su cuidado. Permitirá descubrir y consultar animales, terrarios, hábitats, alimentación, iluminación, climatización y accesorios. Su objetivo es ofrecer a clientes y personas interesadas una experiencia clara, visual y educativa sobre reptiles, anfibios, invertebrados y otras especies.
 
-Este proyecto se desarrolla desde cero con un objetivo de aprendizaje: recorrer un flujo full stack completo, desde la interfaz y la gestión de datos hasta la autenticación, las API y el despliegue.
+El proyecto se desarrolla desde cero con el propósito de convertirse en una herramienta real para el negocio. A la vez, su creación permitirá practicar un desarrollo full stack completo: interfaz, gestión de datos, usuarios, API y publicación de la web.
 
 ## ✨ Funcionalidades previstas
 
