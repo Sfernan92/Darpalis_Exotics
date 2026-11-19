@@ -88,12 +88,6 @@ React + Vite  ──HTTP/JSON──>  FastAPI  ──SQL──>  PostgreSQL
  Interfaz y rutas              API, lógica y autenticación
 ```
 
-## 🤔 ¿Python o Java para el backend?
-
-Ambas alternativas funcionan con React y PostgreSQL. Para este proyecto se recomienda empezar con **Python + FastAPI**, ya que permite avanzar rápido, tiene una sintaxis accesible y facilita entender cómo funciona una API.
-
-**Java + Spring Boot** también es una gran opción si quieres aprender un ecosistema empresarial, arquitectura más estructurada y aplicaciones de gran escala. Sin embargo, para un primer proyecto full stack completo, FastAPI suele tener una curva de entrada más amable.
-
 ## 📁 Estructura sugerida
 
 ```text
