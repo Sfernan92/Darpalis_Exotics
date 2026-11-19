@@ -65,31 +65,46 @@ El proyecto se desarrolla desde cero con el propósito de convertirse en una her
 
 ## 🧰 Tecnologías propuestas
 
-### Frontend
+ Estas son las **tecnologías previstas** para el proyecto. Podrán ajustarse durante el desarrollo según las necesidades reales de Darpalis.
 
-- **React**: creación de una interfaz dinámica basada en componentes.
-- **Vite**: entorno rápido de desarrollo y compilación.
-- **React Router**: navegación entre páginas.
-- **CSS, Tailwind CSS o CSS Modules**: estilos responsive y mantenibles.
 
-### Backend 
+### 🎨 Frontend
 
-- **Python + FastAPI**: API REST rápida, moderna y fácil de documentar. FastAPI genera documentación interactiva automáticamente, lo que resulta especialmente útil mientras aprendes.
-- **SQLAlchemy**: conexión y modelado de datos en PostgreSQL.
-- **Pydantic**: validación de los datos que recibe y devuelve la API.
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-8-CA4245?logo=reactrouter&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 
-React y Python se pueden combinar perfectamente: React se encarga de la interfaz en el navegador y Python/FastAPI expone una API REST que React consume mediante peticiones HTTP.
+- **React**: crea la parte visual e interactiva de la web: páginas, tarjetas de productos, botones, buscador y carrito.
+- **React Router**: permite navegar entre secciones —inicio, catálogo, fichas de especies o carrito— sin recargar toda la página.
+- **Vite**: prepara el proyecto para trabajar de forma rápida durante el desarrollo y para publicarlo cuando esté terminado.
+- **CSS**: lenguaje que define la apariencia de la web: colores, espacios, tamaños y diseño adaptable a móvil, tableta y ordenador.
 
-### Base de datos
+### ⚙️ Backend
 
-- **PostgreSQL**: opción recomendada. Es una base de datos relacional sólida y muy utilizada profesionalmente; encaja bien con productos, categorías, usuarios, pedidos y stock.
+![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
 
-### Herramientas complementarias
+- **Python**: lenguaje de programación que se utilizará para construir la parte interna de la aplicación.
+- **FastAPI**: herramienta de Python para crear la API, el puente que recibe peticiones de la web, procesa la información y se comunica con la base de datos.
+- **SQLAlchemy**: ayuda a que Python pueda leer, crear, modificar y eliminar datos en PostgreSQL sin tener que escribir todas las consultas manualmente.
 
-- **Git y GitHub**: control de versiones y colaboración.
-- **Docker**: entorno reproducible para frontend, backend y base de datos.
-- **Postman o Insomnia**: pruebas de la API.
-- **Pytest** y **Vitest**: pruebas del backend y frontend, respectivamente.
+React y Python se pueden combinar perfectamente: React muestra la web en el navegador y FastAPI entrega los datos que necesita, como productos, especies, usuarios o pedidos.
+
+### 🗄️ Datos y herramientas
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+- **PostgreSQL**: base de datos donde se guardará la información de la tienda: animales, productos, categorías, clientes, pedidos y existencias.
+- **Docker**: permite preparar el mismo entorno de trabajo en cualquier ordenador, incluyendo la aplicación y la base de datos.
+- **Git**: sistema que registra los cambios realizados en el código, permitiendo volver a una versión anterior si algo deja de funcionar.
+- **GitHub**: plataforma donde se almacenará el repositorio de Git para tener una copia online del proyecto y mostrar su evolución.
+- **Postman**: aplicación para comprobar que el backend funciona correctamente antes de conectarlo con la parte visual de la web.
 
 ## 🏗️ Arquitectura inicial
 
@@ -124,4 +139,7 @@ La plataforma debe promover siempre la tenencia responsable, el bienestar animal
 
 ---
 
-Proyecto en producción y desarrollo continuo. 🦎
+<p align="center">
+  <strong>Proyecto en producción y desarrollo continuo. 🦎</strong>
+</p>
+
