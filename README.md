@@ -1,6 +1,17 @@
 # 🦎 Darpalis Exotics
 
-> Propuesta de página web para una tienda especializada en animales exóticos, productos de mantenimiento y cuidado responsable.
+<p align="center">
+  <strong>Proyecto en construcción · Desarrollo Full Stack · Darpalis Exotics</strong>
+</p>
+
+<p align="center">
+  Propuesta de plataforma web para la tienda Darpalis, especializada en animales exóticos, terrarios, hábitats, alimentación y accesorios para su cuidado responsable.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/estado-en%20construcci%C3%B3n-f59e0b?style=for-the-badge" alt="Proyecto en construcción">
+  <img src="https://img.shields.io/badge/desarrollo-individual-2563eb?style=for-the-badge" alt="Desarrollo individual">
+</p>
 
 ## 🌿 Sobre el proyecto
 
